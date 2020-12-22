@@ -36,6 +36,13 @@
   footer p {
     color: #ccc;
   }
+
+  a {
+    text-decoration: none;
+    margin: 30px;
+    color: hsl(198, 1%, 29%);
+  }
+
   .note {
     background: #fff;
     border-radius: 7px;
